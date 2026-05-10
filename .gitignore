@@ -10,6 +10,7 @@
 /[Vv]ersioning/
 .plastic/
 UserSettings/
+MERCY_7.3_Lore_Bible.md
 **/*.csproj
 **/*.sln
 **/*.suo
